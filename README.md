@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lornzyy.
-- 👀 I’m interested in web development and becoming a full stack web developer.
+- 👋 Hi, I’m @Lorna Mungai.
+- 👀 I’m a web developer and interested in becoming a full stack web developer.
 - 🌱 I’m currently learning python and javascript.
 - 💞️ I’m looking to collaborate on projects that advance my web development skills.
 - 📫 Reach me through my email @lornanish@gmail.com.
