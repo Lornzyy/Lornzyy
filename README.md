@@ -10,7 +10,6 @@ Hi there 👋
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![POSTGRESQL](https://www.postgresql.org/media/img/about/press/elephant.png)
 ![Node js](https://nodejs.org/static/images/logo.svg)
 ![React](https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=blue)
 
@@ -19,25 +18,18 @@ Hi there 👋
 # 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/conda/v/:channel/:package)
 
 
 # Interests
-I’m looking to collaborate on interesting tech related projects.
-📫 How to reach me: (lornawmungai@gmail.com)
-
-
+-I’m looking to collaborate on interesting tech related projects especially data analytics and data science centered ones.
+-📫 How to reach me: (lornawmungai@gmail.com)
 
 👨‍🏫 Get to know more about me
 - LinkedIn: [Lorna Mungai](https://www.linkedin.com/in/lorna-wairimu-mungai/)
 - Twitter: [Lorna Mungai](https://twitter.com/Lornzyy)
+- Website: [The Knowledge Nook](https://lonzmungai.wixsite.com/knowledge-manager-s)
+- Blog: [Lorna Mungai](https://medium.com/@lonzmungai)
 
-
-
-
-[![Repositories](https://img.shields.io/github/stars/:Lornzyy/:repo)
-
-![Visitor Count](https://profile-counter.glitch.me/Lornzyy/count.svg)
 
 
 
