@@ -27,7 +27,7 @@
 👨‍🏫 Get to know more about me
 - LinkedIn: [Lorna Mungai](https://www.linkedin.com/in/lorna-wairimu-mungai/)
 - Twitter: [Lorna Mungai](https://twitter.com/Lornzyy)
-- Website: [The Knowledge Nook](https://lonzmungai.wixsite.com/knowledge-manager-s)
+<!-- - Website: [The Knowledge Nook](https://lonzmungai.wixsite.com/knowledge-manager-s)--->
 - Blog: [Lorna Mungai](https://medium.com/@lonzmungai)
 
 
